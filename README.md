@@ -6,6 +6,7 @@ Use terminal to start all scripts
     Word list with frequency (descending order) in csv format.  <br>
     Required parameter: file name (format: txt)<br>
     Optional parameters: list of stopwords, minimal frequency<br>
+    Results are saved in file "results.csv" (current folder)<br>
         
     Examples: <br>
     <code>python3 words_with_frequency.py filename.txt stopwords.txt 10</code>;<br>
