@@ -7,7 +7,7 @@ Use terminal to start all scripts
     Required parameter: file name (format: txt)<br>
     Optional parameters: list of stopwords, minimal frequency<br>
         
-    Examples: 
+    Examples: <br>
     <code>python3 words_with_frequency.py filename.txt stopwords.txt 10</code>;<br>
     <code>python3 words_with_frequency.py filename.txt</code>;<br>
     <code>python3 words_with_frequency.py filename.txt 10</code>;<br>
